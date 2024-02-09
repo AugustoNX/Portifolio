@@ -1,0 +1,53 @@
+.caixaDescricao {
+    color: #000000;
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+span {
+    font-size: 20px;
+    color: red;
+    cursor: pointer;
+}
+
+.uninga {
+    position: absolute;
+    top: 26%;
+    display: none;
+}
+
+.alura {
+    position: absolute;
+    top: 34%;
+    display: none;
+}
+
+.udemy {
+    position: absolute;
+    top: 42%;
+    display: none;
+}
+
+.robotica {
+    position: absolute;
+    top: 50%;
+    display: none;
+}
+
+.cecapi {
+    position: absolute;
+    top: 58%;
+    display: none;
+}
+
+.pioli {
+    position: absolute;
+    top: 66%;
+    display: none;
+}
